@@ -2,12 +2,23 @@
 #frame
 {
   background-color:yellow;
-  height:50%;
+  height:5em;
   margin-left:25%;
   margin-right:25%;
   margin-top:12.5%;
-  width:50%;
+  position:fixed;
+  width:5em;
+}
 
+#head
+{
+  background-color:red;
+  border-radius:50%;
+  content:'';
+  height:100%;
+  margin:0;
+  position:relative;
+  width:100%;
 }
 
 body p
