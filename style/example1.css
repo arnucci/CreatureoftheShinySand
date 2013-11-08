@@ -1,15 +1,9 @@
 /* Example 1 css*/
 body p
 {
-  animation-duration:5s;
-  animation-iteration-count: infinite;
-  animation-name: loop;
-  animation-timing-function:ease;
   background-color:red;
   border-radius:50%;
   content:'';
   height:50px;
-transition-duration:50ms;
-  transition-property: width, height;
   width:50px;
 }
