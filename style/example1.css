@@ -1,1 +1,9 @@
 /* Example 1 css*/
+body p
+{
+  background-color:red;
+  border-radius:25px;
+  content:'';
+  height:50px;
+  width:50px;
+}
