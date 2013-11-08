@@ -2,7 +2,7 @@
 body p
 {
   background-color:red;
-  border-radius:25px;
+  border-radius:50%;
   content:'';
   height:50px;
   width:50px;
