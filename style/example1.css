@@ -35,6 +35,14 @@
   right:4em;
   top:1em;
 }
+
+#nose
+{
+  background-color:green;
+  left:8.5em;
+  position:absolute;
+  top:8.5em;
+}
 body p
 {
   background-color:red;
