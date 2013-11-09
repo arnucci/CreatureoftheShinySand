@@ -43,9 +43,17 @@
   position:absolute;
   top:8.5em;
 }
+
+#mouth
+{
+  background-color:black;
+  bottom:2em;
+  left:8.5em;
+  position:absolute;
+}
+
 body p
 {
-  background-color:red;
   border-radius:50%;
   content:'';
   height:50px;
