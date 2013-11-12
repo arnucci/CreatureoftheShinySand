@@ -1,61 +1,63 @@
 /* Example 1 css*/
 #frame
 {
-  background-color:yellow;
-  height:20em;
-  margin-left:25%;
-  margin-right:25%;
-  margin-top:12.5%;
-  position:relative;
-  width:20em;
+    background-color:yellow;
+    height:20em;
+    margin-left:25%;
+    margin-right:25%;
+    margin-top:12.5%;
+    position:relative;
+    width:20em;
 }
 
 #head
 {
-  background-color:red;
-  border-radius:50%;
-  content:'';
-  height:100%;
-  margin:0;
-  width:100%;
+    background-color:red;
+    border-radius:50%;
+    content:'';
+    height:100%;
+    margin:0;
+    width:100%;
 }
 
 #left-eye
 {
-  background-color:blue;
-  left:4em;
-  position:absolute;
-  top:1em;
+    background-color:blue;
+    left:4em;
+    position:absolute;
+    top:1em;
 }
 
 #right-eye
 {
-  background-color:blue;
-  position:absolute;
-  right:4em;
-  top:1em;
+    background-color:blue;
+    position:absolute;
+    right:4em;
+    top:1em;
 }
 
 #nose
 {
-  background-color:green;
-  left:8.5em;
-  position:absolute;
-  top:8.5em;
+    background-color:green;
+    left:8.5em;
+    position:absolute;
+    top:8.5em;
 }
 
 #mouth
 {
-  background-color:black;
-  bottom:2em;
-  left:8.5em;
-  position:absolute;
+    background-color:black;
+    border-radius:50%;
+    bottom:2em;
+    left:7em;
+    position:absolute;
+    width:100px;
 }
 
 body p
 {
-  border-radius:50%;
-  content:'';
-  height:50px;
-  width:50px;
+    border-radius:50%;
+    content:'';
+    height:50px;
+    width:50px;
 }
